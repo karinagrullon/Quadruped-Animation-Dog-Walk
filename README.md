@@ -1,2 +1,2 @@
-# Quadruped-Animation-Dog-Walk
-Quadruped animation, specifically dog walk, programmed using OpenGL. 
+# Quadruped Animation: Dog Walk
+Quadruped animation, specifically dog walk. Programmed using OpenGL. 
