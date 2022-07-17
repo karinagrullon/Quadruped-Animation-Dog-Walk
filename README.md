@@ -1,7 +1,7 @@
 # Quadruped Animation: Dog Walk
-Quadruped animation, specifically dog walk. Programmed using OpenGL. 
+Quadruped animation, specifically dog walk. 
 
-# About this project
+# # About this project
 The manual animation method developed here allows the dog’s walk motion by applying geometric transformations to the
 primitives that compose the dog’s body structure. This particular model is built
 from 32 primitives. Each part is set to be animated separately, but coordination
