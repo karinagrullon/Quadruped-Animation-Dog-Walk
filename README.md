@@ -1,9 +1,22 @@
 # Quadruped Animation: Dog Walk
 Quadruped animation, specifically dog walk. Programmed using OpenGL. 
 
+# About this project
+The manual animation method developed here allows the dog’s walk motion by applying geometric transformations to the
+primitives that compose the dog’s body structure. This particular model is built
+from 32 primitives. Each part is set to be animated separately, but coordination
+between each moving part is expected for realism. Motion parameters are
+predefined with values that resemble a dog's natural motion. The animation is set to
+start by making right click and choosing “Walk” from the menu or pressing the letter "p" on your keyboard continiously. Motion data for this method is gathered by observation of the video of a dog walking. The intuited mobility of the
+dog will then be replicated on the model. </br>
+
+Adding animation manually to characters is the most basic approach.
+However, there exist other methods such as procedural, physically based, inversekinematic
+and/or a combination of various of these methods. 
+
 ## How to run
 
-1. clone this repo
+1. Clone this repo
 2. Access this repo's folder
 3. Type: "make" 
 4. Type: ./project
